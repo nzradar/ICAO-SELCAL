@@ -1,5 +1,6 @@
 # ICAO-SELCAL
-A python script to decode ICAO SELCAL codes
+A python script to decode ICAO SELCAL codes based on a Goertzel algorithm
+
 This script takes input from a Windows(?) sounddevice (0 by default) and decodes the ICAO SELCAL tones into human readable format, namely:
 
 20/02/26 19:36:31 AMBC
